@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727718275972",
+    "firebase_url": "https://final-rtca-default-rtdb.firebaseio.com",
+    "project_id": "final-rtca",
+    "storage_bucket": "final-rtca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727718275972:android:e92f532abe41cf0f798bd1",
+        "android_client_info": {
+          "package_name": "com.final_rtca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727718275972-cagd4bjp2uofjrhio35ek3lh8vqacun3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-zGyZjOY23GCF0FXM0b4LDjxQt587N9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727718275972-cagd4bjp2uofjrhio35ek3lh8vqacun3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
