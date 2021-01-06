@@ -8,6 +8,6 @@
 * report/ Rapor dosyaları .docx ve .pdf dosyaları.
 * screenshots/ Uygulamadan alınan ekran görüntüleri.
 
-*** Not: Bu uygulama yalnızca Android cihazlarda test edilmiştir. ***
+***Not: Bu uygulama yalnızca Android cihazlarda test edilmiştir.***
 
 ## Abdulbaki Zırıh
